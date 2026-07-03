@@ -1,0 +1,1 @@
+Cloudflare Pages'e yüklemek için başlangıç projesi.
